@@ -51,8 +51,8 @@ $ bash zphisher.sh
 
 ### Run on Docker
 ```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
+$ docker pull hacker-263/team263
+$ docker run --rm -it hacker-263/team263
 ```
 
 ### Dependencies
