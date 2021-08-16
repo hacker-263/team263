@@ -3,7 +3,7 @@
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
 ##   Version 	: 	2.1
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/hacker-263/
 
 ##   THANKS TO :
 ##   Aditya Shakya - https://github.com/adi1090x
@@ -146,16 +146,13 @@ kill_pid() {
 banner() {
 	cat <<- EOF
 		${ORANGE}
-		${ORANGE} ______      _     _     _               
-		${ORANGE}|___  /     | |   (_)   | |              
-		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
-		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
-		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
-		${ORANGE}      | |                                
-		${ORANGE}      |_|                ${RED}Version : 2.1
+		${ORANGE}  _   _    __    ___  _  _  ____  ____       ___    _   ___              
+		${ORANGE} ( )_( )  /__\  / __)( )/ )( ___)(  _ \     (__ \  / ) (__ )
+		${ORANGE}  ) _ (  /(__)\( (__  )  (  )__)  )   / ___  / _/ / _ \ (_ \  
+		${ORANGE} (_) (_)(__)(__)\___)(_)\_)(____)(_)\_)(___)(____)\___/(___/   ${RED}Version : 2.63
+		
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Hacker-263 (team-263)${WHITE}
 	EOF
 }
 
@@ -163,9 +160,13 @@ banner() {
 banner_small() {
 	cat <<- EOF
 		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.1
+                ${BLUE} ╔╗─╔╗─────╔╗────────╔═══╦═══╦═══╗
+                ${BLUE} ║║─║║─────║║────────║╔═╗║╔══╣╔═╗║
+                ${BLUE} ║╚═╝╠══╦══╣║╔╦══╦═╗─╚╝╔╝║╚══╬╝╔╝║
+                ${BLUE} ║╔═╗║╔╗║╔═╣╚╝╣║═╣╔╩═╦═╝╔╣╔═╗╠╗╚╗║
+                ${BLUE} ║║─║║╔╗║╚═╣╔╗╣║═╣╠══╣║╚═╣╚═╝║╚═╝║
+                ${BLUE} ╚╝─╚╩╝╚╩══╩╝╚╩══╩╝──╚═══╩═══╩═══╝
+		  
 	EOF
 }
 
