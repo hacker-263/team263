@@ -41,13 +41,13 @@
 $ git clone https://github.com/hacker-263/team263.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `hacker263.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd hacker263
+$ bash hacker263.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Hacker263` is installed.
 
 ### Run on Docker
 ```
@@ -57,7 +57,7 @@ $ docker run --rm -it hacker-263/team263
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`Hacker263`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
